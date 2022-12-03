@@ -27,7 +27,7 @@ const Footer = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-           Abdourahamane BALDE, Omar El Rifai
+           Abdourahamane BALDE
           </a>
         
         </p>
